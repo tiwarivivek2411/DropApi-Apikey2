@@ -1,0 +1,11 @@
+defaultSize: 5
+logging:
+  level: INFO
+  loggers:
+    couture: DEBUG
+apiUsername : login
+
+apiPassword : logic
+
+
+
